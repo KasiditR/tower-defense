@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f151b6397fd9d45ae1583ae4b03712, type: 3}
+  m_Name: TurretTypeASO
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 52cf2bacd703e5946bb102811d51681a, type: 3}
+  tag: turrettypea
+  damage: 3
+  fireRate: 0.5
+  range: 1
+  characterType: 0
